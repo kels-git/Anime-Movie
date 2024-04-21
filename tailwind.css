@@ -1,0 +1,148 @@
+.absolute {
+  position: absolute
+}
+
+.mb-1 {
+  margin-bottom: 0.25rem
+}
+
+.mb-2 {
+  margin-bottom: 0.5rem
+}
+
+.mb-6 {
+  margin-bottom: 1.5rem
+}
+
+.ml-10 {
+  margin-left: 2.5rem
+}
+
+.ml-2 {
+  margin-left: 0.5rem
+}
+
+.ml-3 {
+  margin-left: 0.75rem
+}
+
+.mr-3 {
+  margin-right: 0.75rem
+}
+
+.mt-20 {
+  margin-top: 5rem
+}
+
+.mt-3 {
+  margin-top: 0.75rem
+}
+
+.mt-5 {
+  margin-top: 1.25rem
+}
+
+.flex {
+  display: flex
+}
+
+.h-12 {
+  height: 3rem
+}
+
+.w-full {
+  width: 100%
+}
+
+.flex-1 {
+  flex: 1 1 0%
+}
+
+.flex-row {
+  flex-direction: row
+}
+
+.items-center {
+  align-items: center
+}
+
+.justify-center {
+  justify-content: center
+}
+
+.rounded-full {
+  border-radius: 9999px
+}
+
+.bg-gray-500 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(107 114 128 / var(--tw-bg-opacity))
+}
+
+.text-center {
+  text-align: center
+}
+
+.font-bold {
+  font-family: Lato-Bold
+}
+
+.font-italic {
+  font-family: Lato-Italic
+}
+
+.font-regular {
+  font-family: Lato-Regular
+}
+
+.text-\[0\.68rem\] {
+  font-size: 0.68rem
+}
+
+.text-\[0\.7rem\] {
+  font-size: 0.7rem
+}
+
+.font-black {
+  font-weight: 900
+}
+
+.font-bold {
+  font-weight: 700
+}
+
+.font-light {
+  font-weight: 300
+}
+
+.font-medium {
+  font-weight: 500
+}
+
+.font-thin {
+  font-weight: 100
+}
+
+.italic {
+  font-style: italic
+}
+
+.text-primary {
+  --tw-text-opacity: 1;
+  color: rgb(0 77 153 / var(--tw-text-opacity))
+}
+
+.text-text {
+  --tw-text-opacity: 1;
+  color: rgb(55 86 94 / var(--tw-text-opacity))
+}
+
+.text-text-dark {
+  --tw-text-opacity: 1;
+  color: rgb(4 38 47 / var(--tw-text-opacity))
+}
+
+.text-white {
+  --tw-text-opacity: 1;
+  color: rgb(255 255 255 / var(--tw-text-opacity))
+}
